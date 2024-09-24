@@ -1,7 +1,7 @@
 ## Sales Insights (Brick & mortar business) Data Analysis Project
-![text](https://github.com/elsayedg/Sales-Insights-Brick-and-mortar-business/blob/main/Pic/Cover%20Photo_Sales%20Insights%20Brick%20%26%20mortar%20business.jpg)
+![text](https://github.com/suhaib-codes/Brick-and-mortar-business-Sales-Insights/blob/main/Pic/Cover%20Photo_Sales%20Insights%20Brick%20%26%20mortar%20business.jpg)
 
-1. SQL database dump is in db_dump.sql file above. Download  [db_dump.sql](https://github.com/elsayedg/Sales-Insights-Brick-and-mortar-business/blob/main/db_dump.sql) file to your local computer and import it.
+1. SQL database dump is in db_dump.sql file above. Download  [db_dump.sql](https://github.com/suhaib-codes/Brick-and-mortar-business-Sales-Insights/blob/main/db_dump.sql) file to your local computer and import it.
 
 ### Data Analysis Using SQL
 
@@ -61,7 +61,7 @@ Data Analysis Using Power BI
 
 ### Key Insight Dashboard
 
-   ![alt text](https://github.com/elsayedg/Sales-Insights-Brick-and-mortar-business/blob/main/Pic/1-%20Key%20Insights.png)
+   ![alt text](https://github.com/suhaib-codes/Brick-and-mortar-business-Sales-Insights/blob/main/Pic/1-%20Key%20Insights.png)
 
 * Sales Overview: This dashboard provides a high-level overview of sales performance, including total sales, sales by region, and sales by product.
 * Sales Trend: This dashboard shows the trend of sales over time.
@@ -75,7 +75,7 @@ Data Analysis Using Power BI
 
 ### Profit Analysis Dashboard
 
-   ![alt text](https://github.com/elsayedg/Sales-Insights-Brick-and-mortar-business/blob/main/Pic/2-%20Profit%20Analysis.png)
+   ![alt text](https://github.com/suhaib-codes/Brick-and-mortar-business-Sales-Insights/blob/main/Pic/2-%20Profit%20Analysis.png)
 * as you can see we dive deep into 2020 year to see the trend and all other profit analysis
 * it provides other dimensions analysis for the Revenue by showing the % of each region's customer and market besides the % of Profit Contribution from the Total Profit
 
@@ -88,7 +88,7 @@ Data Analysis Using Power BI
 
 ### Performance Insights Dashboard
 
-   ![alt text](https://github.com/elsayedg/Sales-Insights-Brick-and-mortar-business/blob/main/Pic/3-%20Performance%20Insights.png)
+   ![alt text](https://github.com/suhaib-codes/Brick-and-mortar-business-Sales-Insights/blob/main/Pic/3-%20Performance%20Insights.png)
 * as you can see we analyze the performance of 2020 to see the difference between this year and the last one through a combo chart
 * More important is identifying every market in which region contributes to our lose in profit 
 
@@ -101,5 +101,5 @@ Data Analysis Using Power BI
 * `Target Diff = [Profit Margin %] - 'Profit Target'[Profit Target Value]`
 
 #### Resources Download
-* 3 dashboards in one PDF [here](https://github.com/elsayedg/Sales-Insights-Brick-and-mortar-business/blob/main/Sales%20Report.pdf) 
-* Power BI file [here](https://github.com/elsayedg/Sales-Insights-Brick-and-mortar-business/blob/main/sales.pbix) but, you must install the sales database as mentioned above to work on your PC. 
+* 3 dashboards in one PDF [here](https://github.com/suhaib-codes/Brick-and-mortar-business-Sales-Insights/blob/main/Sales%20Report.pdf) 
+* Power BI file [here](https://github.com/suhaib-codes/Brick-and-mortar-business-Sales-Insights/blob/main/sales.pbix) but, you must install the sales database as mentioned above to work on your PC. 
